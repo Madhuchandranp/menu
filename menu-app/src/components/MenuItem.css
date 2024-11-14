@@ -1,0 +1,16 @@
+.menu-item {
+    margin: 10px 0;
+    padding: 10px;
+    border-bottom: 1px solid #555;
+  }
+  
+  .menu-item h3 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+  }
+  
+  .price {
+    color: #0099ff;
+  }
+  

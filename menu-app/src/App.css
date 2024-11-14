@@ -1,0 +1,38 @@
+.menu-page {
+  color: #fff;
+  background-color: #1a1a1a;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header h1 {
+  color: #0099ff;
+}
+
+nav button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  color: #fff;
+  background-color: #333;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background-color: #0099ff;
+}
+
+.menu-content h2 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #333;
+}
+
+.contact-info p, .address p {
+  margin: 5px 0;
+}
